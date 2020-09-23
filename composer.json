@@ -1,21 +1,22 @@
 {
-    "name": "digital-creative/nova-pill-filter",
-    "description": "A Laravel Nova filter that renders into clickable pills.",
+    "name": "codicastudio/admindashboard-pillfilter",
+    "description": "A random Codica Studio package.",
     "keywords": [
-        "laravel",
-        "nova",
-        "filter",
-        "pill",
-        "tags"
+        ""
     ],
+    "homepage": "https://github.com/codicastudio/admindashboard-pillfilter",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Rafael Milewski"
+            "name": "Michael J Brown",
+            "email": "mbrown@codicastudio.com",
+            "homepage": "https://codicastudio.com",
+            "role": "Developer"
         }
     ],
-    "license": "MIT",
+
     "require": {
-        "php": ">=7.1.0"
+        "php": "^7.4 || ^8.0"
     },
     "autoload": {
         "psr-4": {
