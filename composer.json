@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/admindashboard-pillfilter",
+    "name": "codica-studio/admindashboard-pillfilter",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/admindashboard-pillfilter",
+    "homepage": "https://github.com/codica-studio/admindashboard-pillfilter",
     "license": "MIT",
     "authors": [
         {
