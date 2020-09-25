@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/admindashboard-pillfilter",
+    "name": "codicastudio/pill-filter",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/admindashboard-pillfilter",
+    "homepage": "https://github.com/codicastudio/pill-filter",
     "license": "MIT",
     "authors": [
         {
@@ -31,6 +31,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
